@@ -2,8 +2,9 @@
 
 
 ![Ven](https://media1.giphy.com/media/TirF9yFoYdAMU/giphy.gif?cid=ecf05e47wdibzdl8anr02ta1t2i32a5ycb621oscs7bvcx5j&rid=giphy.gif)
-![Github stats](https://github-readme-stats.vercel.app/api?username=bitBadger8&theme=bear&show_icons=true&count_private=true)
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bitBadger8&theme=bear&show_icons=true&count_private=true)
 ![Cap](https://media3.giphy.com/media/gdTNfjSfiKiRi/giphy.webp?cid=ecf05e472vpxg1iqhw8lm6hq83v4usd8adyj5tqje1yibzm4&rid=giphy.webp)
 
 
