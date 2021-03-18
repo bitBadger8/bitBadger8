@@ -5,7 +5,7 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bitBadger8&theme=bear&show_icons=true&count_private=true)
-![Cap](https://media3.giphy.com/media/gdTNfjSfiKiRi/giphy.webp?cid=ecf05e472vpxg1iqhw8lm6hq83v4usd8adyj5tqje1yibzm4&rid=giphy.webp)
+![Cap](https://media2.giphy.com/media/asveHVL86oAY8/giphy.gif?cid=ecf05e47oplhii5ediw4qhfh9bcfbklilfzg2uul0m67ykoc&rid=giphy.gif)
 
 
 
