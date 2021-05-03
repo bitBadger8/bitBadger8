@@ -2,10 +2,11 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bitBadger8&theme=bear&show_icons=true&count_private=true)
+<img src="https://media.giphy.com/media/U44oEFAkQevhcFfc2v/giphy.gif" alt="drawing" width="210"/>
 <!--
 ![Cap](https://media2.giphy.com/media/asveHVL86oAY8/giphy.gif?cid=ecf05e47oplhii5ediw4qhfh9bcfbklilfzg2uul0m67ykoc&rid=giphy.gif)
 -->
-![can](https://media.giphy.com/media/U44oEFAkQevhcFfc2v/giphy.gif)
+
 
 
 
