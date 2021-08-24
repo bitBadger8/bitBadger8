@@ -7,7 +7,7 @@
 
 ## Contact
 
-<p><a href="mailto:kevindupreez8@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail" /></a> <a href="https://www.linkedin.com/in/kevindupreez8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin" /></a> <a href="https://bitbadger8.github.io/" target="_blank"><img alt="PersonalPage" src="https://img.shields.io/badge/Personal Page-%2312100E.svg?&style=for-the-badge&logo=linux&logoColor=cyan" /></a></p>
+<p><a href="mailto:kevindupreez8@gmail.com?subject=Connection from Github Profile" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail" /></a> <a href="https://www.linkedin.com/in/kevindupreez8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin" /></a> <a href="https://bitbadger8.github.io/" target="_blank"><img alt="PersonalPage" src="https://img.shields.io/badge/Personal Page-%2312100E.svg?&style=for-the-badge&logo=linux&logoColor=cyan" /></a></p>
 
 ## Tech Stack
 
