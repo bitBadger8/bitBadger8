@@ -3,7 +3,7 @@
 
 ## About
 
-### Currently Studying <a href="https://www.up.ac.za/school-of-information-technology/article/34748/bit" target="_blank">Baccalaureus in Information Technology (BIT)</a> - University of Pretoria
+#### Currently Studying <a href="https://www.up.ac.za/school-of-information-technology/article/34748/bit" target="_blank">Baccalaureus in Information Technology (BIT)</a> - University of Pretoria
 
 ## Contact
 
