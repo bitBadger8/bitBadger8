@@ -13,6 +13,7 @@
 
 ### Languages and Coding
 
+<p>
 <img alt="Android" src="https://img.shields.io/badge/Android-%2312100E.svg?&style=for-the-badge&logo=Android" />
 <img alt="Apache" src="https://img.shields.io/badge/Apache-%2312100E.svg?&style=for-the-badge&logo=Apache" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%2312100E.svg?&style=for-the-badge&logo=Bootstrap" />
@@ -28,21 +29,23 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2312100E.svg?&style=for-the-badge&logo=MySQL" /> 
 <img alt="Node.Js" src="https://img.shields.io/badge/Node.Js-%2312100E.svg?&style=for-the-badge&logo=node.js" /> 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%2312100E.svg?&style=for-the-badge&logo=PHP" /> 
-<img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=Python" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=Python" /></p>
 
 ### DevOps
 
+<p>
 <img alt="Git" src= "https://img.shields.io/badge/Git-%2312100E.svg?&style=for-the-badge&logo=Git" />
 <img alt="GitHub" src= "https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub" />
 <img alt="npm" src= "https://img.shields.io/badge/npm-%2312100E.svg?&style=for-the-badge&logo=npm" />
-<img alt="Hugo" src= "https://img.shields.io/badge/Hugo-%2312100E.svg?&style=for-the-badge&logo=Hugo" />
+<img alt="Hugo" src= "https://img.shields.io/badge/Hugo-%2312100E.svg?&style=for-the-badge&logo=Hugo" /></p>
 
 ### Business Tools
 
+<p>
 <img alt="Discord" src = "https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=Discord" />
 <img alt="GoogleApps" src = "https://img.shields.io/badge/GoogleApps-%2312100E.svg?&style=for-the-badge&logo=Google" />
 <img alt="Jetbrains" src = "https://img.shields.io/badge/Jetbrains-%2312100E.svg?&style=for-the-badge&logo=Jetbrains" />
 <img alt="Miro" src = "https://img.shields.io/badge/Miro-%2312100E.svg?&style=for-the-badge&logo=Miro" />
 <img alt="Slack" src = "https://img.shields.io/badge/Slack-%2312100E.svg?&style=for-the-badge&logo=Slack" />
 <img alt="Telegram" src = "https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=Telegram" />
-<img alt="Trello" src = "https://img.shields.io/badge/Trello-%2312100E.svg?&style=for-the-badge&logo=Trello" />
+<img alt="Trello" src = "https://img.shields.io/badge/Trello-%2312100E.svg?&style=for-the-badge&logo=Trello" /></p>
