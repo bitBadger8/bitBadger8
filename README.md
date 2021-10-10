@@ -1,6 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bitBadger8&theme=bear&show_icons=true&count_private=true)
-<img src="https://media.giphy.com/media/U44oEFAkQevhcFfc2v/giphy.gif" alt="can" height="180"/>
-<img src="https://github.com/bitBadger8/bitBadger8.github.io/blob/main/assets/assets/images/mini-me-wave-cropped.gif?raw=true" alt="mini-me" width="210"/>
+<img src="https://github.com/bitBadger8/bitBadger8.github.io/blob/main/assets/assets/images/mini-me-wave-cropped.gif?raw=true" alt="mini-me" height="210"/>
+
+<!-- <img src="https://media.giphy.com/media/U44oEFAkQevhcFfc2v/giphy.gif" alt="can" height="180"/> -->
 
 
 
